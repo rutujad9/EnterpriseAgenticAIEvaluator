@@ -7,4 +7,3 @@ data/evaluations.csv
 data/evaluations.db
 .deepeval/
 mlruns/
-.github/workflows/ci.yml
