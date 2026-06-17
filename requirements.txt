@@ -1,0 +1,9 @@
+streamlit
+openai
+pandas
+python-dotenv
+requests
+pydantic
+deepeval
+mlflow
+altair

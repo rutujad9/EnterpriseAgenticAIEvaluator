@@ -1,0 +1,29 @@
+{
+  "benchmark_suite": "50-test golden benchmark",
+  "total_tests": 50,
+  "models": [
+    {
+      "provider": "ollama",
+      "model": "mistral",
+      "passed_tests": 39,
+      "total_tests": 50,
+      "accuracy": 78.0
+    },
+    {
+      "provider": "ollama",
+      "model": "phi3",
+      "passed_tests": 25,
+      "total_tests": 50,
+      "accuracy": 50.0
+    },
+    {
+      "provider": "ollama",
+      "model": "llama3.2",
+      "passed_tests": 22,
+      "total_tests": 50,
+      "accuracy": 44.0
+    }
+  ],
+  "best_local_model": "mistral",
+  "minimum_required_accuracy": 70.0
+}
