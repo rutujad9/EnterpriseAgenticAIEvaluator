@@ -878,11 +878,9 @@ The modular structure makes it easier to extend evaluation logic, benchmark addi
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/rutujad9/EnterpriseAgenticAIEvaluator.git
 cd EnterpriseAgenticAIEvaluator
 ```
-
-Replace `<repository-url>` with your GitHub repository URL.
 
 ### 2. Create a Virtual Environment
 

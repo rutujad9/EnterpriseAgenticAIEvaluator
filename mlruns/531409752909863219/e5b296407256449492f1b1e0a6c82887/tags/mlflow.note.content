@@ -1,0 +1,1 @@
+50-test adversarial benchmark for model=mistral, provider=ollama, prompt=worker_prompt_v1, suite=golden_50_v1, deepeval=False. Tracks accuracy, latency, cost, and reliability.

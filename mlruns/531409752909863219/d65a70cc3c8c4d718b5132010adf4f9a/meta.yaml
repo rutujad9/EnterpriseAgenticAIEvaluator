@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rutuu/EnterpriseAgenticAIEvaluator/mlruns/531409752909863219/d65a70cc3c8c4d718b5132010adf4f9a/artifacts
+end_time: 1781576872905
+entry_point_name: ''
+experiment_id: '531409752909863219'
+lifecycle_stage: active
+run_id: d65a70cc3c8c4d718b5132010adf4f9a
+run_name: intelligent-hog-393
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781576872859
+status: 3
+tags: []
+user_id: rutuu

@@ -449,7 +449,22 @@ try:
             else:
                 latest_full_runs = (
                     full_benchmark_runs
-                    .sort_values("id", ascending=False)
+                    .sort_values(
+                         by=[
+                                "provider",
+                                "model",
+                                "accuracy",
+                                "avg_latency",
+                                "id",
+                            ],
+                            ascending=[
+                                            True,
+                                            True,
+                                            False,
+                                            True,
+                                            False,
+                                        ],
+                    )
                     .drop_duplicates(subset=["provider", "model"])
                     .copy()
                 )

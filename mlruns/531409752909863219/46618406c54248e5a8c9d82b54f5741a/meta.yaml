@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rutuu/EnterpriseAgenticAIEvaluator/mlruns/531409752909863219/46618406c54248e5a8c9d82b54f5741a/artifacts
+end_time: 1781581110781
+entry_point_name: ''
+experiment_id: '531409752909863219'
+lifecycle_stage: active
+run_id: 46618406c54248e5a8c9d82b54f5741a
+run_name: melodic-snipe-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781581110719
+status: 3
+tags: []
+user_id: rutuu

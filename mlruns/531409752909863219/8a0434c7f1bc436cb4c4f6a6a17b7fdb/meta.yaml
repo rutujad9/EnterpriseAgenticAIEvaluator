@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/rutuu/EnterpriseAgenticAIEvaluator/mlruns/531409752909863219/8a0434c7f1bc436cb4c4f6a6a17b7fdb/artifacts
+end_time: 1781579415282
+entry_point_name: ''
+experiment_id: '531409752909863219'
+lifecycle_stage: active
+run_id: 8a0434c7f1bc436cb4c4f6a6a17b7fdb
+run_name: intrigued-stork-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1781579415236
+status: 3
+tags: []
+user_id: rutuu
