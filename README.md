@@ -1135,3 +1135,22 @@ The goal of future work is not to add unnecessary complexity, but to improve rep
 
 ---
 
+## Author
+
+**Rutuja D**
+
+MSc Informatik - Germany
+
+GitHub: https://github.com/rutujad9
+LinkedIn: https://linkedin.com/in/rutuja-rd
+
+---
+
+## License
+
+This project is provided for educational, research, and portfolio purposes.
+
+The code and documentation may be referenced for learning and non-commercial use. No warranty is provided, and the project is distributed as-is.
+
+---
+
