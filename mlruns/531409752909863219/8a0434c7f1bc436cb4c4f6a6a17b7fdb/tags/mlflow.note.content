@@ -1,1 +1,0 @@
-50-test adversarial benchmark for model=gpt-4o-mini, provider=openai, prompt=worker_prompt_v1, suite=golden_50_v1, deepeval=True. Tracks accuracy, latency, cost, and reliability.
