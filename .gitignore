@@ -6,4 +6,4 @@ __pycache__/
 data/evaluations.csv
 data/evaluations.db
 .deepeval/
-mlruns/
+mlruns/.github/workflows/ci.yml
